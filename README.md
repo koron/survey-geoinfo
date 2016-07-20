@@ -63,6 +63,11 @@ GeoJSON 関連資料:
 捜索方法を変更したが、良い結果を得られなかったため、
 実際に使ってみる方向に軌道修正。
 
+関連情報:
+
+*   <https://github.com/jnegre/s2-geometry-library-java> : ant を gradle に置き換えた fork
+
+
 ### s2-geometry-library-java を使ってみる
 
 チェックアウトして `ant test` してみた。
